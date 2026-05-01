@@ -4,6 +4,7 @@ microps
 microps is an implementation of a small TCP/IP protocol stack for learning.
 
 + If you love the Go language: https://github.com/pandax381/lectcp
++ Reimplementation in Rust: https://github.com/pandax381/microps-rs
 + Porting to xv6: https://github.com/pandax381/xv6-net
 + Porting to xv6-riscv: https://github.com/pandax381/xv6-riscv-net
 + Porting to MikanOS: https://github.com/pandax381/mikanos-net
